@@ -3,13 +3,9 @@
 ## Project Overview
 
 This project implements an obstacle detection system using an Arduino UNO, an HC-SR04 ultrasonic sensor, a servo motor, and an LED indicator.
-
 The ultrasonic sensor measures the distance of objects. When an obstacle is detected within 10 cm, the servo motor rotates to a specific angle and the LED turns on. When the obstacle is removed, the servo returns to its original position and the LED turns off.
 
 ---
-## 🔗 Live Tinkercad Simulation
-
-Explore, simulate, and test the circuit interactively on Tinkercad:  
 👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/3CgCQiaMN5x-ultrasonicservocontrol)
 ---
 ## Components Used
@@ -23,8 +19,7 @@ Explore, simulate, and test the circuit interactively on Tinkercad:
 - Jumper Wires
 
 ---
-## Circuit diagram
-
+## 🖼️ Circuit Schematics & Simulation Views
 
 https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
 
