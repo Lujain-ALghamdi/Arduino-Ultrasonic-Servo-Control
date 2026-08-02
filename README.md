@@ -1,13 +1,12 @@
 # Arduino Ultrasonic Servo Control System 🤖
 
-## Project Overview
-
 This project implements an obstacle detection system using an Arduino UNO, an HC-SR04 ultrasonic sensor, a servo motor, and an LED indicator.
 The ultrasonic sensor measures the distance of objects. When an obstacle is detected within 10 cm, the servo motor rotates to a specific angle and the LED turns on. When the obstacle is removed, the servo returns to its original position and the LED turns off.
 
----
 👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/3CgCQiaMN5x-ultrasonicservocontrol)
+
 ---
+
 ## Components Used
 
 - Arduino UNO
@@ -19,6 +18,7 @@ The ultrasonic sensor measures the distance of objects. When an obstacle is dete
 - Jumper Wires
 
 ---
+
 ## 🖼️ Circuit Schematics & Simulation Views
 
 https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
@@ -66,6 +66,7 @@ https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
 ---
 
 ## Hardware Implementation
+
 <img width="1280" height="709" alt="6012542958856507143_121" src="https://github.com/user-attachments/assets/fa09ede7-a47c-4d2a-af84-0c8968c1f5a8" />
 
 ### Hardware Circuit Video
