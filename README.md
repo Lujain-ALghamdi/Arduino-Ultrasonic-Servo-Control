@@ -58,7 +58,8 @@ The ultrasonic sensor measures the distance of objects. When an obstacle is dete
 
 ## Circuit Diagram & Simulation Views
 
-https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
+
+https://github.com/user-attachments/assets/70628930-3dfa-40c1-9e65-860581ec6508
 
 
 ## Hardware Implementation
