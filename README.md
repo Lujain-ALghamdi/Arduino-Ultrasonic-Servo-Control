@@ -5,7 +5,6 @@ The ultrasonic sensor measures the distance of objects. When an obstacle is dete
 
 👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/3CgCQiaMN5x-ultrasonicservocontrol)
 
----
 
 ## Components Used
 
@@ -17,13 +16,6 @@ The ultrasonic sensor measures the distance of objects. When an obstacle is dete
 - Breadboard
 - Jumper Wires
 
----
-
-## 🖼️ Circuit Schematics & Simulation Views
-
-https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
-
----
 
 ## Circuit Connections
 
@@ -51,7 +43,6 @@ https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
 | Anode (+) through 220Ω resistor | D3 |
 | Cathode (-) | GND |
 
----
 
 ## How It Works
 
@@ -64,6 +55,11 @@ https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
    - The LED turns off.
 
 ---
+
+## 🖼️ Circuit Diagram & Simulation Views
+
+https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
+
 
 ## Hardware Implementation
 
