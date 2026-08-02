@@ -8,6 +8,7 @@ The ultrasonic sensor measures the distance of objects. When an obstacle is dete
 
 ---
 ## 🔗 Live Tinkercad Simulation
+
 Explore, simulate, and test the circuit interactively on Tinkercad:  
 👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/3CgCQiaMN5x-ultrasonicservocontrol)
 ---
@@ -70,10 +71,9 @@ https://github.com/user-attachments/assets/d8870eed-ca7e-4ff3-8ee3-0f6c00e06960
 ---
 
 ## Hardware Implementation
+<img width="1280" height="709" alt="6012542958856507143_121" src="https://github.com/user-attachments/assets/fa09ede7-a47c-4d2a-af84-0c8968c1f5a8" />
 
 ### Hardware Circuit Video
-
-<img width="1280" height="709" alt="6012542958856507143_121" src="https://github.com/user-attachments/assets/fa09ede7-a47c-4d2a-af84-0c8968c1f5a8" />
 
 https://github.com/user-attachments/assets/dc9f1bd8-931d-48ac-a8dc-b7e131b9e1f5
 
